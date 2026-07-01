@@ -10,4 +10,4 @@
 
 - ชื่อ-สกุล:ชวิศ จิระธิติกุล
 - รหัสนักศึกษา:680610666
-- <strong>GITHUB PAGE URL : https://github.com/cpe207-2569/lab03-ChawisJirath/index.html </strong>
+- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-ChawisJirath/index.html </strong>
